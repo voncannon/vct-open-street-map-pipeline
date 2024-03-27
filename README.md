@@ -18,9 +18,12 @@ The goal with this project is to generate an open street map base map with plane
 1. Convert to pmtiles `./pmtiles convert planet.mbtiles planet.pmtiles`
 
 
-# History of building planet
+# History of Timings 
 
-## September 7, 2023
+September 7, 2024 planet log - [2023-09-27-planet.log](2023-09-27-planet.log)
+
+
+**September 7, 2023 - Converting planet mbtiles to pmtiles**
 
 ```
 bvc@gisbox osm-data % ./pmtiles convert planet.mbtiles planet.pmtiles 
