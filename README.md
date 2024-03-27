@@ -11,6 +11,7 @@ The goal with this project is to generate an open street map base map with plane
 1. Download planetiler and verify checksum: `sh ./download-planetiler.sh`
 
 1. Download planet.osm.pbf from an appropriate mirror: `sh ./download-osm.sh`
+    1. This step can be skipped if using `--download` in the planetiler command
     1. https://registry.opendata.aws/osm/
     1. https://github.com/awslabs/open-data-docs/tree/main/docs/osm-pds
 
