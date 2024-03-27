@@ -25,7 +25,7 @@ The goal with this project is to generate an open street map base map with plane
         export AWS_ACCESS_KEY_ID=foo
         export AWS_SECRET_ACCESS_KEY=bar
 	    export AWS_DEFAULT_REGION=us-east-2
-        ./pmtiles upload planet.pmtiles planet.pmtiles --bucket=s3://foobar/planet.pmtiles
+        time ./pmtiles upload planet.pmtiles planet.pmtiles --bucket=s3://foobar/planet.pmtiles
         ```
   
 
